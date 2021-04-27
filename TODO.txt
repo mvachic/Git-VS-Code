@@ -1,0 +1,4 @@
+Je tu hodně práce a zkušeností co je třeba získat. Na začátek bude třeba sehnat sponzora(y), protože to nebude levná záležitost.
+Krom finanční stránky věci je potřebné taky sehnat tým, nebo spolupracovníky, kteří by se na tom chtěli podílet
+Dalším krokem je "už jen" vytvořil celého robota včetně jeho fyzické i psychické stránky (kódu), samozřejmě bude přemýšlet v Pythonu, protože ten umí všechno, akorát blbě, jak se tak říka.
+Po vyhotovení robota je už jen nutné dostatečně zaujmout veřejnost, protože čím více kusů se bude prodávat, tím levnější bude moct být.
